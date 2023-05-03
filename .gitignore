@@ -1,0 +1,12 @@
+obj/
+build/
+*.d
+*.o
+*.out
+*.dSYM/
+.DS_STORE
+tags
+tmp
+*.log
+*.aux
+*.out
